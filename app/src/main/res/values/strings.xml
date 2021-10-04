@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Marvel SuperHeroes</string>
+    <string name="noDetalle">No hay detalle de este superhéroe</string>
+    <string name="errorConexion">Error al obtener los datos</string>
+</resources>
